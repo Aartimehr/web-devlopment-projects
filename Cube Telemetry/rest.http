@@ -1,0 +1,23 @@
+GET http://localhost:3000/Satellite
+
+### craete a product
+
+POST http://localhost:3000/Satellite
+
+Content-Type:  application/json
+{
+  "name": "AAU Cubeset",
+  "Lati": 38,
+  "Long": 33,
+   "Alt":78,
+   "Pitch":23,
+   "Yaw": 53,
+   "Roll":3545,
+   "Temp":345,
+   "Humid":34,
+   "pressure":45,
+   "Bat_remain":343,
+   "Bat_time":68,
+   "NORAD_ID":56774736363,
+   "organisation":"ISRO"
+}
