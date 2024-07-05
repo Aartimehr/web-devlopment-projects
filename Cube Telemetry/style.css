@@ -1,0 +1,17 @@
+
+body {
+  background-color: #060930;
+  color:black;
+  color: #F4ABC4;
+}
+  section {
+    text-align:left;
+    height: 100%;
+    padding: 75px 0px;
+    min-height: 40vh;
+  }
+  
+.box {
+      background-color: #333456;
+      margin: 10px 0px;
+  }
